@@ -1,0 +1,24 @@
+/* estilizaçao do blog */
+
+.titulo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+.pagina {
+    background-image: url(https://i.ibb.co/s17Kzxb/imag.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.diario1 {
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    text-align: center;
+    background-color: aliceblue;
+    
+}
